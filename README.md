@@ -1,2 +1,2 @@
 # LibrAngular
-A library study systm, utilizing Angular, Java, Sprringboot, TypeScript &amp; etc.
+A library study system, utilizing Angular, Java, Sprringboot, TypeScript & etc.
